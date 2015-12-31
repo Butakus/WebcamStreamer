@@ -1,0 +1,10 @@
+# Test files
+*.jpg
+*.png
+*.str
+
+# Logs
+*.log
+
+# Backup files
+*.bak
