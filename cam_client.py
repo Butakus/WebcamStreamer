@@ -3,7 +3,7 @@ import cv2
 import socket
 
 # Address to send requests
-SERVER_ADDR = ('127.0.0.1', 8000)
+SERVER_ADDR = ('192.168.0.24', 8000)
 # Port to receive frames
 CLIENT_PORT = 8008
 
