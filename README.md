@@ -8,8 +8,7 @@ Clients can connect, disconnect and shutdown the server.
 
 ## Author
 Francisco Miguel Moreno
-* butakus@gmail.com
-* twitter.com/butakus
+* butakus[at]gmail.com
 
 ## TODO
 * Finish documentation.
